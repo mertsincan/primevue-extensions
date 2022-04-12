@@ -1,0 +1,9 @@
+{
+  "main": "./filterchips.cjs.js",
+  "module": "./filterchips.esm.js",
+  "unpkg": "./filterchips.min.js",
+  "types": "./FilterChips.d.ts",
+  "browser": {
+    "./sfc": "./FilterChips.vue"
+  }
+}
